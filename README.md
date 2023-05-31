@@ -6,8 +6,8 @@ EPISIM-MODEL OF THE VSP DEPARTMENT AT THE TU BERLIN:
 ## The usage and download of the following open available files are only allowed for an epidemiological simulation of Cologne.
 ## Do not use the files for other simulations.
 
-The open availbale model includes a 25 percent sample. The code for running the simulation is also open available under: https://github.com/matsim-org/matsim-episim
-More information you find on our website: https://covid-sim.info/
+The open availbale model includes a 25 percent sample. The code for running the simulation is also open available under: https://github.com/matsim-org/matsim-episim .
+You can find more information on our website: https://covid-sim.info/ .
 If you have questions, please contact covid19@vsp.tu-berlin.de 
 
 Files:
@@ -26,7 +26,7 @@ cologne_2020-vehicles.xml.gz
 cologne_facilities_assigned_simplified_grid.xml.gz
 	Including the facilities used in the evnts files. The coordinates are in grid accuracy of 500m.
 
-cologne_2022-mobility_data.csv
+cologne_until20221231_mobility_data.csv
 	Daily mobility data for Cologne for the simulated period.
 
 sha256sums:
