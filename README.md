@@ -3,17 +3,17 @@
  Release according to data protection provision "Open Data Agreement of 11.07.2022" between Senozon Deutschland and the VSP department at the TU Berlin.
 
 EPISIM-MODEL OF THE VSP DEPARTMENT AT THE TU BERLIN:
-## The usage and download of the following open available files are only allowed for an epidemiological simulation of Cologne.
+## The usage and download of the following openly available files are only allowed for an epidemiological simulation of Cologne.
 ## Do not use the files for other simulations.
 
-The open availbale model includes a 25 percent sample. The code for running the simulation is also open available under: https://github.com/matsim-org/matsim-episim .
+The open availbale model includes a 25 percent sample. The code for running the simulation is also openly available under: https://github.com/matsim-org/matsim-episim .
 You can find more information on our website: https://covid-sim.info/ .
 If you have questions, please contact covid19@vsp.tu-berlin.de 
 
 Files:
 cologne_snz_entirePopulation_emptyPlans_withDistricts_25pt_split.xml.gz:
 	Population including all persons having activities in one of the events files. The person attributes are homeId, homeCoordinates, age, district of home.
-	The coordinates are in grid accuracy of 500m.
+	The coordinates are in grid accuracy of 300m.
 
 cologne_snz_episim_events_sa_25pt_split.xml.gz
 cologne_snz_episim_events_so_25pt_split.xml.gz
@@ -24,7 +24,7 @@ cologne_2020-vehicles.xml.gz
 	File includes a mapping of vehiclesIds to the vehilce type.
 
 cologne_facilities_assigned_simplified_grid.xml.gz
-	Including the facilities used in the evnts files. The coordinates are in grid accuracy of 500m.
+	Including the facilities used in the evnts files. The coordinates are in grid accuracy of 300m.
 
 cologne_until20221231_mobility_data.csv
 	Daily mobility data for Cologne for the simulated period.
