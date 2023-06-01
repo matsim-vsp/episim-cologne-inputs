@@ -1,4 +1,4 @@
-# Synthetic-activity-chains-for-agent-based-epidemiological-simulations-of-Cologne
+# Episim-Cologne-inputs
  
  Release according to data protection provision "Open Data Agreement of 11.07.2022" between Senozon Deutschland and the VSP department at the TU Berlin.
 
