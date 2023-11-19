@@ -7,7 +7,7 @@ EPISIM-MODEL OF THE VSP DEPARTMENT AT THE TU BERLIN:
 ## Do not use the files for other simulations.
 
 The open availbale model includes a 25 percent sample. The code for running the simulation is also openly available under: https://github.com/matsim-org/matsim-episim .
-You can find more information on our website: https://covid-sim.info/ .
+You can find more information on our website: https://covid-sim.info/ . This is the same version that is available [here](https://doi.org/10.14279/depositonce-11495.2). 
 If you have questions, please contact covid19@vsp.tu-berlin.de 
 
 Files:
